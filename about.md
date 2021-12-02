@@ -62,6 +62,30 @@ _SEPT 2021 - DEC 2021, BRAINSTATION CAPSTONE PROJECT_
 ● Through time series modeling (Vector Autoregressive, SARIMAX, and Prophet), established predictable baseline crime levels for journalistic and civic interaction in order to contextualize abnormal deviations  
 ● Published Results on GitHub and Tableau Public
 
-### Contact me
+<br>
 
-[theserafine@gmail.com](mailto:theserafine@gmail.com)
+### SKILLS  
+Python, SQL, R, Hypothesis
+Testing, A/B Testing, Tableau,
+Parametric/Non-Parametric
+Testing, Matplotlib, Plotly,
+Seaborn, Bokeh, Tensorflow,
+Keras, Pytorch, AWS, Hadoop,
+Spark, Hive, Supervised &
+Unsupervised Machine
+Learning methodology, Excel,
+Google G-Suite  
+
+<br>
+
+### CERTIFICATIONS  
+
+**CompTIA Network+**  
+
+**CompTIA A+**  
+
+**CompTIA CIOS**
+
+<br>
+
+#### CONTACT ME - [theserafine@gmail.com](mailto:theserafine@gmail.com)
