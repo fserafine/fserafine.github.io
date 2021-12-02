@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Frank Serafine
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Drawing upon knowledge gained from generating, wrangling, and reporting on datasets, I have an eye for both the big picture and the minutiae of systems. My business management education informs my tech skill set and enhances my ability to find valuable business insights. A former boss has gone on record to say the following: “Frank is thorough, methodical and detail oriented. He is very insightful, cuts through the crap and distills an issue down to the heart of the matter.”
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/9408591?s=400&u=a3041b92c453eaf922345316d0ffc881ba5f5cb3&v=4
 
 #
 # Flags below are optional
@@ -17,19 +17,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  email: theserafine@gmail.com
+  github: https://github.com/fserafine
+  linkedin: https://www.linkedin.com/in/frankserafine/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
