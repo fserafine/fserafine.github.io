@@ -54,7 +54,7 @@ _AUG 2006 - MAY 2010, NASHVILLE, TN_
 ___BrainStation | Diploma, Data Science___  
 SEP 2021 - DEC 2021, FT LAUDERDALE, FL
 
-
+<br>
 
 ### PROJECTS
 __Project CAP - Crime Analysis & Prediction | Author/Researcher__  
