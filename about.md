@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BIO
-permalink: /bio/
+permalink: /about/
 ---
 Drawing upon knowledge gained from generating, wrangling, and reporting on datasets, I have an eye for both the big picture and the minutiae of systems. My business management education informs my tech skill set and enhances my ability to find valuable business insights.  
 
